@@ -1,7 +1,7 @@
 💻
 <br>
 ## Olá 👋
-Eu sou o Thiago, sou um programador Front-end, atualmente estou aprendendo:  
+<p>Eu sou o Thiago, sou um programador Front-end, atualmente estou aprendendo:<p/>  
    
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black"><img/>
 <br>
