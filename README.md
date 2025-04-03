@@ -1,16 +1,14 @@
-## Hi there 👋
+💻
+<br>
+## Olá 👋
+Eu sou o Thiago, sou um programador Front-end, atualmente estou aprendendo:  
+   
+<img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black"><img/>
+<br>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"><img/>
+<br>
 
-<!--
-**meirelles87/meirelles87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Contato:</h2>
+<a href="https://www.linkedin.com/in/thiago-meirelles-2b4509a5/" target= "_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ><img/></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
