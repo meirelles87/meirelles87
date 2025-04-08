@@ -7,7 +7,6 @@
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"><img/>
 <br>
-<a href="https://starchart.cc/{meirelles87}/{repo}.svg"><a/>
 
 
 <h2>Contato:</h2>
