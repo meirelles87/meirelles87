@@ -12,4 +12,5 @@
 <a href="https://www.linkedin.com/in/thiago-meirelles-2b4509a5/" target= "_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ><img/></a>
 
 
-<a href="https://img.shields.io/github/license/{meirelles87}/{repo-name}.svg"><a/>
+<a href="https://img.shields.io/github/realese/{meirelles87}/{repo-name}.svg
+"><a/>
